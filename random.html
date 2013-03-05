@@ -1,0 +1,32 @@
+<!doctype html system>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<title>rondom</title>
+		<script type="text/javascript">
+			var howMany = 8;  // max number of items listed below
+			var page = new Array(howMany+1);
+			page[0]="index.html";
+			page[1]="site1.html";
+			page[2]="site2.html";
+			page[3]="site3.html";
+			page[4]="site4.html";
+			page[5]="site5.html";
+			page[6]="site6.html";
+			page[7]="site7.html";
+			page[8]="site8.html";
+			function rndnumber(){
+				var randscript = -1;
+				while (randscript < 0 || randscript > howMany || isNaN(randscript)){
+					randscript = parseInt(Math.random()*(howMany+1));
+				}
+					return randscript;
+			}
+			quo = rndnumber();
+			quox = page[quo];
+			window.location=(quox);
+		</script>
+	</head>
+	<body>
+	</body>
+</html>

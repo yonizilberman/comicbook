@@ -1,0 +1,202 @@
+@charset "utf-8";
+/* CSS Document */
+/*------------------ body  ---------------------------------------*/
+#center_body_no-sideBar{
+    border:solid 1px transparent;
+    position:relative;
+    /*padding-right:65px;*/
+    direction:rtl;
+    position:relative;
+    top:60px;
+}
+#center_body_no-sideBar1{
+    border:solid 1px transparent;
+    position:relative;
+    padding-right:65px;
+    direction:rtl;
+    position:relative;
+    top:80px;
+}
+#conntact{
+    border:solid 1px transparent;
+    position:relative;
+    top:100px;
+    padding-right:160px;
+}
+#center_body_h {
+    border:solid 1px transparent;
+    position:relative;
+    direction:rtl;
+    top:80px;
+    padding-right:65px;
+}
+#center_body_e {
+    border:solid 1px transparent;
+    position:relative;
+    direction:ltr;
+    top:80px;
+    padding-left:65px;
+}
+/*-------------------- end -------------------------------------*/
+/*--------------------- pic change ------------------------------------*/
+#paris {
+	background-image:url('Paris.jpg') ;
+	background-position:center ;
+	background-repeat:no-repeat;
+	border:0px;
+	width:190px;
+	height:240px;
+	}
+a:hover #paris {
+	background-image:url('ParisUp.gif');
+	background-position:center ;
+	background-repeat:no-repeat;
+	border:0px;
+	width:190px;
+	height:240px;
+}
+/*------------------------ end ---------------------------------*/
+/*-------------------------- recomend -------------------------------*/
+.logo{
+	border:0px;
+	width:400px;
+	height:50px;
+}
+.logo1{
+	border:0px;
+	width:100px;
+	height:25px;
+}
+.text-logo{
+	border:solid 1px transparent;
+	color:brown;
+     width:372px;
+     height:20px;
+     position:relative;
+     direction:rtl;
+     padding:0.9cm 0.5cm 0.5cm 0cm;
+     top:0px;
+}
+.logo-pic{
+	border:solid 1px transparent;
+	width:372px;
+     height:50px;
+     position:relative;
+     direction:rtl;
+     padding:0.9cm 0.5cm 0.5cm 0cm;
+     top:0px;
+}
+.recomand-page{
+	border:solid 1px transparent;
+	width:725px;
+}
+/*----------------------- end ----------------------------------*/
+/*------------------------- arrows --------------------------------*/
+.arrow{
+    border:0px;
+    width:40px;
+    height:40px;
+}
+.comicbody{
+	border:1px;
+	width:600px;
+	height:750px;
+}
+/*------------------------ end ---------------------------------*/
+/*------------------------ way of work ---------------------------------*/
+.imgloca{
+	border:1px solid black;
+	width:250px;
+	height:180px;
+	vertical-align:top;
+	direction:center;
+}
+.textloca{
+	border:1px solid black;
+	width:50px;
+	height:180px;
+}
+#comictable{
+	border:0px solid black;
+	width:725px;
+	height:800px;
+}
+/*------------------------ end ---------------------------------*/
+/*------------------------ about us ---------------------------------*/
+.pics {  
+    height:  222px;  
+    width:   252px;  
+    padding: 0;  
+    margin:  0;  
+} 
+ 
+.pics img {  
+    padding: 15px;  
+    border:  1px solid #ccc;  
+    background-color: #eee;  
+    width:  190px; 
+    height: 240px; 
+    top:  0; 
+    left: 0 
+} 
+.picarea{
+	width:222px;
+	height:310px;
+	vertical-align:text-top;
+}
+.textarea{
+	width:200px;
+	height:191px;
+	vertical-align:text-top;
+	direction:rtl;
+	padding-right:15px;
+}
+#onsite{
+	width:700px;
+	height:800px;
+}
+#Wayofworking{
+	text-align:center;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#US{
+	border:0px;
+	width:800px;
+	height:800px;
+}
+/*------------------------ end ---------------------------------*/
+/*------------------------ how to do it ------------------------*/
+ .ptext p{
+ 	margin-top: 10px;
+ 	margin-bottom: 3px;
+ }
+/*------------------------ end ---------------------------------*/
+/*------------------------ comics ------------------------*/
+#comics{
+	text-align:center;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#archive{
+	border:0px;
+	width:800px;
+	height:900px;
+}
+/*------------------------ end ---------------------------------*/
+/*------------------------ php ---------------------------------*/
+#fname{
+	width:200px;
+}
+#email{
+	width:200px;
+}
+#Comment{
+	resize:none;
+}
+#st{
+	padding-right:0.75cm;
+}
+/*------------------------ end ---------------------------------*/
