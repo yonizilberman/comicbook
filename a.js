@@ -40,7 +40,7 @@ var menu='<div id="wrapper">'+
                     '</div5>'+
                 '</li>'+
                 '<li>'+
-                    '<a href="contact.php">צור קשר</a>'+
+                    '<a href="contact.html">צור קשר</a>'+
                     '<div id="div6" onMouseOver="cancelCloseTime()" onMouseOut="closeTime()">'+
                     '</div6>'+
                 '</li>'+
