@@ -23,7 +23,7 @@ var menu='<div id="wrapper">'+
                     '</div3>'+
                 '</li>'+
                 '<li>'+
-                    '<a href="Wayofworking.html" onMouseOver="openDiv('+" 'div4' "+')" onMouseOut="closeTime()">דרך עבודה</a>'+
+                    '<a href="wayofworking.html" onMouseOver="openDiv('+" 'div4' "+')" onMouseOut="closeTime()">דרך עבודה</a>'+
                     '<div id="div4" onMouseOver="cancelCloseTime()" onMouseOut="closeTime()">'+
                         '<a href="onsite.html">האתר</a>'+
                         '<a href="howtodoit.html">איך עושים קומיקס</a>'+
